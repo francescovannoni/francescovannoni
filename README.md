@@ -7,7 +7,7 @@
 ### Connect with me:
 
 [<a href="https://www.linkedin.com/in/francesco-vannoni-77b627"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>]
-[<a href="https://www.instagram.com/francescovannoni/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>][instagram]
+[<a href="https://www.instagram.com/francescovannoni/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>]
 
 <br />
 <br />
